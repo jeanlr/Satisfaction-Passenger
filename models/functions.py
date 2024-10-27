@@ -1,5 +1,9 @@
+import itertools
+from matplotlib import pyplot as plt
 import pandas as pd
 import numpy as np
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import confusion_matrix, f1_score, precision_recall_curve, precision_score, recall_score, roc_auc_score, roc_curve
 
 print('------------ Import Functions ! ------------------')
 
