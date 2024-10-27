@@ -8,6 +8,7 @@ pandas = "*"
 ipykernel = "*"
 scikit-learn = "*"
 openpyxl = "*"
+seaborn = "*"
 
 [dev-packages]
 
